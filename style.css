@@ -1,0 +1,27 @@
+h1 {
+    text-align:center;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size:35px;
+    color:white;
+}
+h2 {
+    text-align:center;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size:30px;
+    color:darkolivegreen;
+}
+#IMAGE{
+    border-radius:45%;
+    margin-bottom:30px;
+    margin-top:30px;
+    margin-left:450px;
+    width:500px;
+}
+p {
+ text-align:center;
+ font-size:35px;
+ padding:50px;
+}
+body {
+    background:linear-gradient(#c4c276 10%,#748499 100%);
+}
